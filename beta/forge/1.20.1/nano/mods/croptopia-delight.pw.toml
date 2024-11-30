@@ -1,0 +1,13 @@
+name = "Croptopia Delight"
+filename = "CroptopiaDelight-1.20.1_1.2.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z2Ihxkgp/versions/ERCDfnVj/CroptopiaDelight-1.20.1_1.2.2-forge.jar"
+hash-format = "sha512"
+hash = "b2c68629204cbf9a736d631efd22b4f4a17c499c8f7ab5a05e4f2909c13bad754be44dbc6238d4e57b192954e64d5231827f9f69805cfa2a3e0820ee25fcd94c"
+
+[update]
+[update.modrinth]
+mod-id = "z2Ihxkgp"
+version = "ERCDfnVj"
