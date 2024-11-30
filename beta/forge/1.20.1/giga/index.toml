@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+hash = "f4c4031690517134d1334ad4fc4700dca18d3bd901bf1ebf6edfdb8cf3387549"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+hash = "116df8b639a81d514b20bcf44fdf85c0bac6ece79d882387811f467a0aabb178"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
-hash = "109a59ba560dab527da4b13ab9312df5d47019117de3326bed5a9f961f6df7af"
+hash = "aac8dbc618e4a0d8bf4ce5d72ba9cbfb7f267cb75c060cafb04a48671400be3f"
 metafile = true
 
 [[files]]
