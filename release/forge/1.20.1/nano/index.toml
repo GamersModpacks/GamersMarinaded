@@ -13,6 +13,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/alexscaves-client.toml"
+hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
@@ -22,7 +26,7 @@ hash = "bb4cb5fc75d9426d1474ee41456be3eb2501be4c5d98bcc5aba03519219dae39"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "ab9a0e58a7acac1fb16093c01e971d31d5b877d3db84ec44c93db78e01e4fbe4"
+hash = "2714df626cc4da3f8a697ad46846fa75fdf7b4ae1c90d5a6e4753f08c35cb62a"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -70,7 +74,7 @@ hash = "497bc9c6b14eda3620690234e868a50ab83b0b389a261c51999a648d13c467fd"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "9c35a7846fd6fb316bacc0382f49d6336a2bc9500c2da92bbabc7f3a68dbdd30"
+hash = "ccc65670e9fa847128ab901da8f897de04c896bfb1507430b7e2b9b56b838be8"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -103,6 +107,10 @@ hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "9026fdfd192fe1203b91cd48e3eb2c68cc55c1189fdd2afbba55c3fb13fd7fd2"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -139,8 +147,20 @@ hash = "69561a54b8e46b61eb6504ee4b7240c55cc3fc7088ba1bd89876a7e158d69e8c"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "66c4d2dfeaf9d24c206f3cd723c66df7363d7566f4fd133a2c29e27fb1d61e72"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b8cda69116e49aa9c725c7727f1606a684e45b2fcacf96a01ea738ec837ed774"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"

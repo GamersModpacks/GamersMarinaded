@@ -236,6 +236,11 @@ hash = "b773e95f3d2930250507b1da080da03b4fee7702d6f94a794d4388e8c39824b3"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.pw.toml"
+hash = "17b826d2504d643fe7df27f4448ea30b5e99c49bc2aaa1dd08c153be32a893e6"
+metafile = true
+
+[[files]]
 file = "mods/iam-music-player.pw.toml"
 hash = "d5c6db48d4de743a14c28b6c3df48cc6104ac33208178b2a820fcf9d37a20e2e"
 metafile = true
