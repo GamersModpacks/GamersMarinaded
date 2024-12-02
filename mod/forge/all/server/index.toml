@@ -61,6 +61,10 @@ file = "mods/citadel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 metafile = true
 
