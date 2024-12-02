@@ -33,10 +33,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 metafile = true
 
@@ -65,15 +61,7 @@ file = "mods/citadel.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
 metafile = true
 
 [[files]]
@@ -149,7 +137,7 @@ file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/formations.pw.toml"
+file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
@@ -165,6 +153,10 @@ file = "mods/glitchcore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iam-music-player.pw.toml"
 metafile = true
 
@@ -174,10 +166,6 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
 metafile = true
 
 [[files]]
@@ -289,10 +277,6 @@ file = "mods/philips-ruins.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 metafile = true
 
@@ -353,10 +337,6 @@ file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/unnamed-desert.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 metafile = true
 
@@ -366,10 +346,6 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
