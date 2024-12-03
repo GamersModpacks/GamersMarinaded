@@ -81,10 +81,6 @@ file = "mods/create-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-utilities.pw.toml"
 metafile = true
 

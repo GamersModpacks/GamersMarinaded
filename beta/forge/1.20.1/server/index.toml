@@ -136,11 +136,6 @@ hash = "e0d9c97ead9590966bdad4bc7d7fcb852441b46d0099c3335aab13a6875834da"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "cab1a02e8a3cbe274eac41407b72d97d1f3fef40ace614f69f437e799acef401"
-metafile = true
-
-[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "ef11f022094e42a21fbfdad19c0fc72fd3bba43afc6fa269737f30c5d93717fe"
 metafile = true
@@ -183,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "d155b5476ef76ed491010d0d029a97fb86ee2a253bc4b4650269e70efa834363"
-metafile = true
-
-[[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
 metafile = true
 
 [[files]]
@@ -298,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "1aeb57cc49886d34843fa65680294ca67def94ecf34bebeb66331ac8aff3366f"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true
 
 [[files]]
@@ -507,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "666c5c10364290c24cce173053b49f797e19dfc40f15dcd5414a893a6b742e1f"
+hash = "63af713ca64f06987d5d23e050e7f3d706ab3410b5e972770c9cf0bfaa72d3b6"
 metafile = true
 
 [[files]]
