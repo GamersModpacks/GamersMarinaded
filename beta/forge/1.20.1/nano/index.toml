@@ -747,11 +747,6 @@ hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
 metafile = true
 
 [[files]]
-file = "mods/smsn.pw.toml"
-hash = "df03cb359f0039e6d17ac549429fb2f98e5c232119330691967b111a3e46580a"
-metafile = true
-
-[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "a0528c5760985353935d53f5344dac8b02b1c24b4e4017d47917025ae5c5cbe9"
 metafile = true
