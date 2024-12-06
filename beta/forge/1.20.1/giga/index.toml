@@ -42,7 +42,7 @@ hash = "3a76a170c111420cffc64fc1f6b8aa6627b8ec6eb5e8a474b9ac241872d865d2"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
-hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
+hash = "d3898008bc3f9c394b40789f81a429f8b209bab4eeebcceaa636f963c736023f"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
@@ -54,11 +54,11 @@ hash = "4bcdc38c959754fb32d664bbce1b8f778c2300b37c4c8b6d5125b5b4f87bb40e"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
-hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
+hash = "9aba30a17f27ccfc7d45fbd3f82ed99da08b5f34dc146ff957a2a8d6df03562b"
 
 [[files]]
 file = "config/fancymenu/assets/icon32.png"
-hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+hash = "abe56165750a9c78ed6a32499b3e06586a9417d29a282986fd6a6f2c1c1c04d9"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -82,7 +82,7 @@ hash = "497bc9c6b14eda3620690234e868a50ab83b0b389a261c51999a648d13c467fd"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "fa2dd05a4191edc1e334583e1fb980d7d9e9c0feb12d42fe0a7fea761940d9f0"
+hash = "4d12a2df0df39998bcf84655132ef1a0328c88810f5fd7abf6dca69f3cc1a7ce"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -98,7 +98,7 @@ hash = "1437dcdabba502c4309a7d521312f7ec128a130fef6afa1c28b87ccc1b8283a9"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "99f2344b403b85283eab0890816ae852ef0dd4a7edc2a2e9fd8b95fd56fa0d2c"
+hash = "58a77b213ab1f4207be6811332cfed6dcf0205a15b51c18b7cb2832a14489957"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3424dc786356caf18a2b1b054f9f8c824b13e45d01eb44e3fe716a61fbc5f197"
+hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "1aeb57cc49886d34843fa65680294ca67def94ecf34bebeb66331ac8aff3366f"
+hash = "2ec425d4f464971f3e9f52d0bd060b0e9ba0c2f160b78abb0dcd999e8513cfb3"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "63af713ca64f06987d5d23e050e7f3d706ab3410b5e972770c9cf0bfaa72d3b6"
+hash = "3039affe8ff61c1258ae72e470843c7ec485e6900b15960e620554e7cc17d73e"
 metafile = true
 
 [[files]]

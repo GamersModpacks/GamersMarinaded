@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "d67f2d774a1d533ffda97614b9628b4b06253b30ede0939235c60fbe2a6b8bcb"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "7bca7e06b9dd6bfabb7c1eb81ce73105cce73e38a8273eeec72cf2d89dd8f9c0"
 metafile = true
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3424dc786356caf18a2b1b054f9f8c824b13e45d01eb44e3fe716a61fbc5f197"
+hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
 
 [[files]]
@@ -287,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "1aeb57cc49886d34843fa65680294ca67def94ecf34bebeb66331ac8aff3366f"
+hash = "2ec425d4f464971f3e9f52d0bd060b0e9ba0c2f160b78abb0dcd999e8513cfb3"
 metafile = true
 
 [[files]]
@@ -497,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "63af713ca64f06987d5d23e050e7f3d706ab3410b5e972770c9cf0bfaa72d3b6"
+hash = "3039affe8ff61c1258ae72e470843c7ec485e6900b15960e620554e7cc17d73e"
 metafile = true
 
 [[files]]

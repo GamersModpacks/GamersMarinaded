@@ -10,6 +10,15 @@ file = "config/create-client.toml"
 file = "config/embeddium++.toml"
 
 [[files]]
+file = "config/fancymenu/assets/background.jpg"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
@@ -26,9 +35,6 @@ file = "config/supplementaries-client.toml"
 
 [[files]]
 file = "config/xaerominimap.txt"
-
-[[files]]
-file = "filesToRemove.txt"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

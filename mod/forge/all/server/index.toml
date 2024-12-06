@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 metafile = true
 
