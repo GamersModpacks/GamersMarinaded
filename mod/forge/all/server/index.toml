@@ -16,10 +16,6 @@ file = "mods/alexs-mobs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ancient-golems.pw.toml"
 metafile = true
 
