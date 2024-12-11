@@ -1,2 +1,1 @@
 mods/citreforged.pw.toml
-mods/fps-reducer.pw.toml
