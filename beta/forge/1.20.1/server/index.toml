@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "081111ac100860951a6e400737cb228d67b4f4f371b6f0d9e1d973a87122b839"
+hash = "4151f312e96900df6a9c36ce0dbf0f65f793f1696779fa955cfb39c41b3f931c"
 metafile = true
 
 [[files]]
@@ -281,22 +281,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "17ca0345c74697fdcb909ae6ac39b079536a6cc7213a15f4742b82359d37715a"
+hash = "41aca1c294cb0b1d0bac44a06cb5a786a75eced241f6a841b26cc0819d27364a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "de50b8de4dc8e4696daaa9e28235355f76a83a0b3a4f8478c961c848de8eef2f"
+hash = "ad5ff4b329691eb220d79537930485bde6dddd95453df454619c1220c9220180"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "168eac18f927b132941878e44386fe6065fc03527147fe8644f0c63b1c5e553f"
+hash = "59ff08165c26c463de395473c20bbd28dafbee98340f0430d44552e039ad4244"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "632a29570671c7ee4cb389cd8a7d40fe39186f84e21bcd7721ee9a704bca5e36"
+hash = "0b5697864b829397e1fee5cdbac8e10601724887a16a7a2894aa890145804e53"
 metafile = true
 
 [[files]]
@@ -495,21 +495,6 @@ hash = "c137195ed17821b7735c01febd757bc345eb16f971931e71d5bf4d99f3a2dcaf"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "aac8dbc618e4a0d8bf4ce5d72ba9cbfb7f267cb75c060cafb04a48671400be3f"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "cf11ddb8a4e36f4eb09a42f29c97f0d206ba2fca037e4bde3ea40c0f47767a97"
-metafile = true
-
-[[files]]
 file = "mods/vampirism-integrations.pw.toml"
 hash = "cd442157bcaef5838764a3bfb9480128fdcff3be5b77bf742bb5eb8b2e9cd9c6"
 metafile = true
@@ -536,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4a216bc52ac331514a39f40d0befe918b486220b730ccc4addacb8c38bb5b721"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
 metafile = true
 
 [[files]]

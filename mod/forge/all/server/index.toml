@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 metafile = true
 
@@ -181,10 +184,6 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -297,10 +296,6 @@ file = "mods/ribbits.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 metafile = true
 
@@ -330,18 +325,6 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
 metafile = true
 
 [[files]]
