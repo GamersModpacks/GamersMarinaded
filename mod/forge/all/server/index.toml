@@ -56,6 +56,10 @@ file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 metafile = true
 
@@ -192,6 +196,10 @@ file = "mods/lets-do-vinery.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 metafile = true
 
@@ -209,10 +217,6 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]

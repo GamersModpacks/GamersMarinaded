@@ -38,7 +38,7 @@ hash = "f53cbfee8a69320263acaf4cbd48b82ffd02d9e22a33fbbd203c955cc45b06f0"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
-hash = "d3898008bc3f9c394b40789f81a429f8b209bab4eeebcceaa636f963c736023f"
+hash = "ec0136e388486513bd355457eb27fa510e329229fea59753da9e71753dcad916"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
@@ -74,11 +74,11 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "b54e4a3b3743f8c9aa8665da166e9e464b3247b1ea669c5177d0a36635a1f01c"
+hash = "c6ab1b3b2a3baaf323896300051fd830f3c052beea884c08613ccc4cae889873"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "7ed8fb752acdac37f8f7dcd3f9668b3f56d7ebad8093cdf5c84d368d1c4bdf81"
+hash = "8f19da62e673fb54497c79f5a9f5e4ae8365e94574bcac9b2ccb56a5e338d1f2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -159,6 +159,10 @@ file = "config/supplementaries-client.toml"
 hash = "3162880926408256af121ddfe2ddec94c9ca04e5ccb88cc46bba208d9ae7d096"
 
 [[files]]
+file = "config/vampirism-common.toml"
+hash = "3d32cd95f6175c2032e1e233608b38c638afcd9538fe6774e51f6956aa3e96c3"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
@@ -173,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a703ce725ddc146f214b471021b49c932fd124a34b249d002bdbb959ccfe697e"
+hash = "b0d18b0a5c0c1793c3e00c5937f094acc1bd3ed6f7b966aa28b2aae5360cb48e"
 metafile = true
 
 [[files]]
@@ -272,6 +276,11 @@ hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "84c40a6efca7145bcbbd66653d961fdb02c7824cdf4bd123ac97689987be5754"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2274e08910d949f9962383e2314e8d42490f2e8195782786392614d0f0879629"
 metafile = true
@@ -289,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "6bc4aa39478b886f8cd3a5d65023af0718234182d55bebd0cce874a3bbabc720"
 metafile = true
 
 [[files]]
@@ -334,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "7faf4ff2e1fa8dc8f1d0e1cd293d033113b48de74654210b5f17c4c96660ad45"
-metafile = true
-
-[[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "ddffdb4dd442977115656e4378bc1a38290c9299fb316ae24ba54ee229f30c13"
 metafile = true
 
 [[files]]
@@ -512,6 +521,11 @@ hash = "4151f312e96900df6a9c36ce0dbf0f65f793f1696779fa955cfb39c41b3f931c"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ecd97a02b33bcd6bc4f0898d9602c23ef5811958bd097b5d9e5ba1b2ffef5637"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "1421f78ae43fd458f59a7564c3feab3641758b19d1c584630dcd83025046e66c"
 metafile = true
@@ -553,12 +567,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "696de7db2aeed8bec1b9a39364dffd9eeef81ea6481b8ef2fb53d30224982f1c"
+hash = "a77186c42b3385f777722ad96f80f6bda946460ba3bcd1638367dca113f8500b"
+metafile = true
+
+[[files]]
+file = "mods/mods-optimizer.pw.toml"
+hash = "798292034e87cf33f6120f82b546985341b1bf91f2734b6305e331cd03fb5cc9"
 metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "2763e35ac682126b0759b587b431c09cc9a5befd64e2187b8c4a2a4efb15ef56"
+hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
@@ -569,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "f40b96b1bd4ea818bb83c16940fad743f0fbbc26483060deeab4c26e23d833e9"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
@@ -712,11 +736,6 @@ hash = "39b80c6de26921874bb48bab4f6cd6cb7eab041fabd20705544a1ae762321dc2"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "7ee3fd0152ab5cd7ff33598b6d3b756ed44b7e706bd54d0a399f33ca97cec942"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -763,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism.pw.toml"
-hash = "3629b80ffd00e186d88f016e3753411528452beb3509c3f46a5ef9125781cac7"
+hash = "9a01dcea6b632ace5c9f13109c0a9e59d551058ce1c3add987408fe836b3b7ee"
 metafile = true
 
 [[files]]
@@ -802,11 +821,6 @@ hash = "88d2b02821249cdc720ff9a2e72c43d264124e52812afd1fc72d9d97ed0ad76b"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "f3f3e0bb0a809ebf3312a87ae553b2b57075bc7dee9b00926c5da03120d1a8f7"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "7019a82bab4d3d2a7951e252d0c0a32d6409e81438bc12f50bfdc84979815fce"
 metafile = true
@@ -842,11 +856,6 @@ hash = "52f3930ba1033bd8cf12286b9142b14b64d4e5326cf2f0f01bd7a7c6dd46a5c9"
 metafile = true
 
 [[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "d2b219a6bc1e46158c8dab16d7b766ae7c7cbc5b3bff446d1e69b1418596d926"
-metafile = true
-
-[[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "61cddea3f179df8c4195bb21f81a2f709f9a03f1dd5cbc09d8da112dedfc87b0"
 metafile = true
@@ -858,5 +867,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "ed8474cfb69fe3b5ca21155b3ca060432bfa85b15470bcb9c2a723c68df3c24e"
+hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true

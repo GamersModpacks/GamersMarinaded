@@ -25,6 +25,9 @@ file = "config/fancymenu/assets/logo.png"
 file = "config/fancymenu/customization/main_menu.txt"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
 file = "config/iceandfire-client.toml"
 
 [[files]]
@@ -42,8 +45,4 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
