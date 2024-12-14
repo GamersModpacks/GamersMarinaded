@@ -82,7 +82,7 @@ hash = "c6ab1b3b2a3baaf323896300051fd830f3c052beea884c08613ccc4cae889873"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "8f19da62e673fb54497c79f5a9f5e4ae8365e94574bcac9b2ccb56a5e338d1f2"
+hash = "e0f52a020258b7651d3acdcd9837403b7034e2045f54bfc26f98f95b5b9424e4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -651,11 +651,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
