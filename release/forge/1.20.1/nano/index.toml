@@ -78,7 +78,7 @@ hash = "c6ab1b3b2a3baaf323896300051fd830f3c052beea884c08613ccc4cae889873"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e0f52a020258b7651d3acdcd9837403b7034e2045f54bfc26f98f95b5b9424e4"
+hash = "1512e57b0f8b642d0b85a65e0f3b68cfb88790b15e211d4e3d428af2c7757022"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "da11742acdabd86fc663fecce6c8f99482208dca5f16e558e3801d96624aea1e"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "1971a6ddbd7980451c784caa2c5fb05e66c7537dcb67429b002fef787ec1eba8"
+hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
 metafile = true
 
 [[files]]
@@ -513,6 +513,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f4c4031690517134d1334ad4fc4700dca18d3bd901bf1ebf6edfdb8cf3387549"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+hash = "bf481905c6c7c3c8c79e98af9b18057d78e6077575eb3d525c45a03b0090b2a7"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "95c327240db19808c1c7c8dd5190ce245b34b614ceed65c944a574d94141dd63"
 metafile = true
 
 [[files]]
