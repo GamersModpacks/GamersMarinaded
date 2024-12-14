@@ -1,2 +1,1 @@
 mods/citreforged.pw.toml
-mods/noisium.pw.toml
