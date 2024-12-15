@@ -374,6 +374,11 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "470c4104569a4a07df23512da4caafe83f18346310315ed672183dbbf75cd244"
 metafile = true
