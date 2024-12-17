@@ -78,11 +78,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "c6ab1b3b2a3baaf323896300051fd830f3c052beea884c08613ccc4cae889873"
+hash = "e9883cafccfb4227fd9b1be3a289cf90c6af73ef3f6fbaaf174d5b941719f3dc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "b50b23dfdf0b81b6aa26b24a8a3b7896d600add3fb0ba1f28a9f917ea9f7061c"
+hash = "b55bc66894b396634a3473abc2ae9ecf7b04fdedddc158892b513679fbe49354"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -569,6 +569,11 @@ hash = "f4c4031690517134d1334ad4fc4700dca18d3bd901bf1ebf6edfdb8cf3387549"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
 hash = "bf481905c6c7c3c8c79e98af9b18057d78e6077575eb3d525c45a03b0090b2a7"
 metafile = true
@@ -580,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "4151f312e96900df6a9c36ce0dbf0f65f793f1696779fa955cfb39c41b3f931c"
+hash = "f48b7a2317e4de8b8cb99314d07d9beaa3ae0dd26dd16720e4739caa4f212389"
 metafile = true
 
 [[files]]
@@ -645,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "324acad11b9b0ec370bf0f644b0efdf604a9862f8e2da3becb02d3daeab88f3c"
+hash = "593c81b20cbb99b6aaf75d4bea5d533b169f8bdb81fb97c9b947b90f36a078cb"
 metafile = true
 
 [[files]]
@@ -685,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "f2e4b92cacce52a37702f951a3d203e60dc870c175b7360c8f513b261dc2fd94"
+hash = "6717fa0666102efdfc81c649f17314e47fc7efe9fa3d7285b7f396375be0a464"
 metafile = true
 
 [[files]]
@@ -784,6 +789,11 @@ hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "56cdda51ec38e06d12d1158f3a1115c7fc3086bd02bb0f30cac84ba5934a701a"
 metafile = true
@@ -800,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "39b80c6de26921874bb48bab4f6cd6cb7eab041fabd20705544a1ae762321dc2"
+hash = "759190ef4bcf86d5ed2d3d28ddc5c9ff059713d45890dc818ae947b99cf40080"
 metafile = true
 
 [[files]]
