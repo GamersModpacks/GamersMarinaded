@@ -29,6 +29,10 @@ file = "config/defaultoptions/options.txt"
 hash = "bb4cb5fc75d9426d1474ee41456be3eb2501be4c5d98bcc5aba03519219dae39"
 
 [[files]]
+file = "config/does_it_tick-common.toml"
+hash = "973b9b09309865fd05d9e610b4aff3ae6a75e729a52ea5084f18f236efbf2d77"
+
+[[files]]
 file = "config/embeddium++.toml"
 hash = "2714df626cc4da3f8a697ad46846fa75fdf7b4ae1c90d5a6e4753f08c35cb62a"
 
@@ -38,7 +42,7 @@ hash = "f53cbfee8a69320263acaf4cbd48b82ffd02d9e22a33fbbd203c955cc45b06f0"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
-hash = "ec0136e388486513bd355457eb27fa510e329229fea59753da9e71753dcad916"
+hash = "3a8584ceca6721573844ce53af866114c359cee66a36e04f96fcc27077a476e8"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
@@ -78,7 +82,7 @@ hash = "e9883cafccfb4227fd9b1be3a289cf90c6af73ef3f6fbaaf174d5b941719f3dc"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "b55bc66894b396634a3473abc2ae9ecf7b04fdedddc158892b513679fbe49354"
+hash = "e35bc0bafafe1be45a750d2fb70ccee8a58be2b90983d325d20ed4ad08a75fb4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -177,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "b0d18b0a5c0c1793c3e00c5937f094acc1bd3ed6f7b966aa28b2aae5360cb48e"
+hash = "ede64c0b2041a6ea24b1406891e18ecd8210f517433a6ee26b82378e06d4abc0"
 metafile = true
 
 [[files]]
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "c52aab6767b8a08db1fa860cee2f8019d804b92b80fbe78f701fcd4b37d6ad7d"
 metafile = true
 
 [[files]]
@@ -252,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "8afe3f39594b9f5fc0c9db48944fded8dec73faffa0fdfa3a540b94a86f56c47"
+hash = "b5f3d6264a22d17b318587c05755ae04094c185f6ec80e319074654afeb9d347"
 metafile = true
 
 [[files]]
@@ -287,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "db7e75481f1ae1171298a44a5d542812e6659e8a7a5b95066839fb22cb29ae4d"
+hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
 metafile = true
 
 [[files]]
@@ -308,6 +317,16 @@ metafile = true
 [[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "7d983ccdd80789c8d4846d57646cc80809eec743a3376ffa0c9434eada24d8b6"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "a69f6a12d1cbf4eb25ae928796dc96f51c4f26081665c413be35172f1de558b8"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
@@ -333,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "71b5a17ff61b3dacd1d216e34b22f1a80c165b9951a15e2c4e789d9bf5d7d044"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
 
 [[files]]
@@ -537,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ecd97a02b33bcd6bc4f0898d9602c23ef5811958bd097b5d9e5ba1b2ffef5637"
+hash = "d601a01d4dfc50e8d59d83a94a05b55a883be8a579eb91da28aee0712376114d"
 metafile = true
 
 [[files]]
@@ -547,22 +571,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "41aca1c294cb0b1d0bac44a06cb5a786a75eced241f6a841b26cc0819d27364a"
+hash = "1e3a838a33e341f49737293aa590854d14535236628178df75859628c50f8f60"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "ad5ff4b329691eb220d79537930485bde6dddd95453df454619c1220c9220180"
+hash = "19afec92ca63d9dfbe9cecac8e33364a6a193d655f6341cb693b9a933880520a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "59ff08165c26c463de395473c20bbd28dafbee98340f0430d44552e039ad4244"
+hash = "0eba6b0ab8dedb146186cdf7b42db880857f299c97e20c445984c7c57c3ae63c"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "0b5697864b829397e1fee5cdbac8e10601724887a16a7a2894aa890145804e53"
+hash = "cf269b34aad2ad418d1488acb8feef4125bb17fc0f3dab819222e610ac66c5e2"
 metafile = true
 
 [[files]]
@@ -597,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "593c81b20cbb99b6aaf75d4bea5d533b169f8bdb81fb97c9b947b90f36a078cb"
+hash = "c9c7e7cce158186a4825959bf63269cb2ee811d15c518a65a6c7fff00651396f"
 metafile = true
 
 [[files]]
@@ -662,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "3bc82f25e52b2023f184a8cc47ff2c609477099e6841a08d4d2eca6ec3b94a32"
+hash = "f8ac90b649f7e3cd82a98d9a38ee58fc7df6853354aef4a488b26b78286b2dc4"
 metafile = true
 
 [[files]]
@@ -682,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "cbb0552daa6351a6a418a6836accbf466c3930bb713c2c1d605ed039821ebb72"
+hash = "b8b1e8600a8031e54ae82864289044f8f0c647154e7130773ce6a54c511f30bf"
 metafile = true
 
 [[files]]
@@ -812,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2a0fa2e6c046e1261ed6d2b807ee0f62786ab0a3e75d37b52a020b9685d4dd7d"
+hash = "0b76a3e5fa9d76378324558101807108f3099cbb6c17f24586330aad8dc91f85"
 metafile = true
 
 [[files]]

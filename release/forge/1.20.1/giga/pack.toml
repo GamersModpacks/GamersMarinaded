@@ -1,15 +1,15 @@
 name = "GamersMarinaded"
 author = "Gamers"
-version = "v1.0"
+version = "v5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2ad09cf3af699c12fd14bdf136c376cf529a855c44391a50312d6dba0886ac79"
+hash = "66f843fe0c8d2ac329d6d72c895059bae2d6af4ee41882c37053be54d48ddeea"
 
 [versions]
-forge = "47.3.12"
+forge = "47.3.22"
 minecraft = "1.20.1"
 
 [options]

@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/does_it_tick-common.toml"
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]
@@ -16,6 +19,10 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
 metafile = true
 
 [[files]]
@@ -75,6 +82,14 @@ file = "mods/create-applied-kinetics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 metafile = true
 
@@ -92,6 +107,10 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]

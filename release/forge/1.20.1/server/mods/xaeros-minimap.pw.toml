@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_24.6.1_Forge_1.20.jar"
+filename = "Xaeros_Minimap_24.7.1_Forge_1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/C3YstOIl/Xaeros_Minimap_24.6.1_Forge_1.20.jar"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/sr50tbXn/Xaeros_Minimap_24.7.1_Forge_1.20.jar"
 hash-format = "sha512"
-hash = "4b81641027bd90d115adad0de4a171cf2b73cf7068a1ecf7b622875d87a22fdf37c8936e3cd8f091a42cdb17dbe678183c45d3b6cf59842514bf0b33a8d55165"
+hash = "8e82015a0307e854c18ff6b92f9fdfc17c2339631c9ecc02cdb9882d0826f558e50770022728f7c0c666ef2b5485824dd1abd9afed67024801e88341d40e5547"
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
-version = "C3YstOIl"
+version = "sr50tbXn"
