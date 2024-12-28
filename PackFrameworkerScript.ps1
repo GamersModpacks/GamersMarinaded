@@ -109,11 +109,6 @@ function Build-Modpack {
     if ($modpacktype -eq 'nano' -or $modpacktype -eq 'giga') {
     (Get-Content "$outputPath/config/fancymenu/custom_locals/mod/en_us.local") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/config/fancymenu/custom_locals/mod/en_us.local"
     }
-    # Copy the changelog to the output path
-    if ($modpacktype -eq 'nano' -or $modpacktype -eq 'giga') {
-    Write-Host "[$(Get-Date -Format 'mm:ss')] Copying Changelog..."
-    Copy-Item "$PSScriptRoot\CHANGELOG.md" "$outputPath\config\fancymenu\assets\changelog.md"
-    }
     # Update the modpack using packwiz
     Write-Host "[$(Get-Date -Format 'mm:ss')] Refreshing..."
     Set-Location "$outputPath"

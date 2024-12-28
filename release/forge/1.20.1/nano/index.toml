@@ -30,7 +30,7 @@ hash = "bb4cb5fc75d9426d1474ee41456be3eb2501be4c5d98bcc5aba03519219dae39"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
-hash = "973b9b09309865fd05d9e610b4aff3ae6a75e729a52ea5084f18f236efbf2d77"
+hash = "cbdcf8abae8e4fa946ccb76bd1477a458f80e27d4037cb7e0f3b09975bb566a6"
 
 [[files]]
 file = "config/embeddium++.toml"
@@ -43,10 +43,6 @@ hash = "f53cbfee8a69320263acaf4cbd48b82ffd02d9e22a33fbbd203c955cc45b06f0"
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
 hash = "3a8584ceca6721573844ce53af866114c359cee66a36e04f96fcc27077a476e8"
-
-[[files]]
-file = "config/fancymenu/assets/changelog.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -78,11 +74,11 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e361a42c90d58ae7ac1a37c18a5c31ae14f93a6abfe5b26eab6ddf93cfb02cd6"
+hash = "1f1723c6220f70861c2920614159266eacf7a964e6be9ce26231774acf34f6ce"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "51d058105aff4330a26d2fe20ad2c465f5aad775f124a0bcfd316d313b16a57b"
+hash = "d5f07a3038484a3a564ffa089b2615fcf26269dcab0075c669e5d009ce38ac0b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -261,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "b5f3d6264a22d17b318587c05755ae04094c185f6ec80e319074654afeb9d347"
+hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
 metafile = true
 
 [[files]]
@@ -332,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "b258a65e5dba3fe31c3ae8a0f7acf84d3deaab2d03eef3b54f862f839440a63d"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f71550f98704bdda403df05c5ac5148a9bcd685825c60d46c53938049a86bb74"
 metafile = true
 
 [[files]]
@@ -466,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "695f2de3cc96e5ce4ca7a3802dd3868678bb1da7ffe133fb58fa254bcb073df5"
+hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
 metafile = true
 
 [[files]]
@@ -606,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a77186c42b3385f777722ad96f80f6bda946460ba3bcd1638367dca113f8500b"
+hash = "dcd4e240c0a28f6f1f7899aa3c80193894791e7a44b7759e22787cf24f83ea1f"
 metafile = true
 
 [[files]]
@@ -621,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c9c7e7cce158186a4825959bf63269cb2ee811d15c518a65a6c7fff00651396f"
+hash = "9057013583ab30267f6ce98d56a199f1c26723b270aec54ab8fd3642c8f56c28"
 metafile = true
 
 [[files]]
@@ -722,11 +723,6 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "e7b0b4347c718c5b6ba50334d950a7f004348bfeb0dfd2b747c1f35d3145c966"
-metafile = true
-
-[[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
-hash = "973b9b09309865fd05d9e610b4aff3ae6a75e729a52ea5084f18f236efbf2d77"
+hash = "cbdcf8abae8e4fa946ccb76bd1477a458f80e27d4037cb7e0f3b09975bb566a6"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "b5f3d6264a22d17b318587c05755ae04094c185f6ec80e319074654afeb9d347"
+hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
 metafile = true
 
 [[files]]
@@ -150,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "b258a65e5dba3fe31c3ae8a0f7acf84d3deaab2d03eef3b54f862f839440a63d"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f71550f98704bdda403df05c5ac5148a9bcd685825c60d46c53938049a86bb74"
 metafile = true
 
 [[files]]
@@ -254,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "695f2de3cc96e5ce4ca7a3802dd3868678bb1da7ffe133fb58fa254bcb073df5"
+hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
 metafile = true
 
 [[files]]
@@ -369,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a77186c42b3385f777722ad96f80f6bda946460ba3bcd1638367dca113f8500b"
+hash = "dcd4e240c0a28f6f1f7899aa3c80193894791e7a44b7759e22787cf24f83ea1f"
 metafile = true
 
 [[files]]
@@ -384,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c9c7e7cce158186a4825959bf63269cb2ee811d15c518a65a6c7fff00651396f"
+hash = "9057013583ab30267f6ce98d56a199f1c26723b270aec54ab8fd3642c8f56c28"
 metafile = true
 
 [[files]]
@@ -480,11 +485,6 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "e7b0b4347c718c5b6ba50334d950a7f004348bfeb0dfd2b747c1f35d3145c966"
-metafile = true
-
-[[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 metafile = true
 
 [[files]]
