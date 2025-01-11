@@ -1,13 +1,13 @@
 name = "Origins++"
-filename = "origins-plus-plus-2.3-forge.jar"
+filename = "origins-plus-plus-2.3.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "48fa28ebacc2b41f95be81d3b1c3f13e1fa6becb"
+hash = "c8e00592a2f145721ecacb5b6f1eb602062c2a07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5875373
+file-id = 6073726
 project-id = 602828

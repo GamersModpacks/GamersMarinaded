@@ -1,13 +1,13 @@
 name = "[Let's Do] Vinery"
-filename = "letsdo-vinery-forge-1.4.34.jar"
+filename = "letsdo-vinery-forge-1.4.36.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/q7ot1Jyl/letsdo-vinery-forge-1.4.34.jar"
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/iMX6SyCc/letsdo-vinery-forge-1.4.36.jar"
 hash-format = "sha512"
-hash = "dc96eecf32586a19b450c89b816451b688d42bae24023eb4f50aace7db76b0c46dc53632ba60dd8d4cef9291812ed5db9b246c7a3ad9e2b0eba91d04c53036a4"
+hash = "28ecc45021f015cae508232d85d6c3fccd33bcd0c9d5c6e136fc2fd77482a7bac33d246c6f530956faf4a429bf701ebee96e127a3f0b350113948d4f12a8dc92"
 
 [update]
 [update.modrinth]
 mod-id = "1DWmBJVA"
-version = "q7ot1Jyl"
+version = "iMX6SyCc"

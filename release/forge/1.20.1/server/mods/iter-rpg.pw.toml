@@ -1,13 +1,13 @@
 name = "Iter RPG"
-filename = "iter_rpg-0.7.6-forge-1.20.1.jar"
+filename = "iter_rpg-0.7.8-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "21240775475575f596649976e0e5c64d37683586"
+hash = "d07118b19a3420176857d54e72a75ba54f288636"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5942716
+file-id = 6075348
 project-id = 561699
