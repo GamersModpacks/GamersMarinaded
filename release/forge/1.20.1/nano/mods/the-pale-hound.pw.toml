@@ -1,0 +1,13 @@
+name = "The Pale Hound"
+filename = "Pale_Hound-1.20.1-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45c91eb33f09e6545d3db815052fc3f5aaa603dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5904145
+project-id = 990902

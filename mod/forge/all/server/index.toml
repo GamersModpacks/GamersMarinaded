@@ -66,6 +66,10 @@ file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cave-dweller-reimagined.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 metafile = true
 
@@ -150,6 +154,10 @@ file = "mods/domum-ornamentum.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/endofherobrine.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-legacy.pw.toml"
 metafile = true
 
@@ -230,6 +238,10 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 metafile = true
 
@@ -258,8 +270,7 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mowzies-mobs.pw.toml"
-metafile = true
+file = "mods/mowziesmobs-1.6.5.jar"
 
 [[files]]
 file = "mods/obscure-api.pw.toml"
@@ -354,7 +365,27 @@ file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tconjei.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-pale-hound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
 metafile = true
 
 [[files]]
