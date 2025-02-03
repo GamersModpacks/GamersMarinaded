@@ -46,3 +46,10 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/tconjei.pw.toml"
+metafile = true
+
+[[files]]
+file = "servers.dat"

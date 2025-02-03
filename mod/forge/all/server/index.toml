@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
 file = "config/does_it_tick-common.toml"
 
 [[files]]
@@ -99,6 +102,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
 metafile = true
 
 [[files]]
@@ -215,6 +222,10 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/json-things.pw.toml"
 metafile = true
 
 [[files]]
@@ -365,10 +376,6 @@ file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tconjei.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 metafile = true
 
@@ -377,11 +384,11 @@ file = "mods/the-knocker.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-pale-hound.pw.toml"
+file = "mods/tinkers-construct.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
+file = "mods/tinkers-katanas.pw.toml"
 metafile = true
 
 [[files]]

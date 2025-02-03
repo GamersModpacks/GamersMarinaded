@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "8570b6d245e26f162de9fad239704461d240407d667163f0d57e87998f1e5bb9"
+
+[[files]]
 file = "config/does_it_tick-common.toml"
 hash = "83c07cbb13d3bd3c37ded9e8f431851a4bcf51a80a711a3d235a56ade5dc2d38"
 
@@ -14,7 +18,7 @@ hash = "3d32cd95f6175c2032e1e233608b38c638afcd9538fe6774e51f6956aa3e96c3"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "7d86ce233c1b7ecd6badb6b0473a57dd8ded857ae74604423c943fc137c63b8a"
+hash = "1e04444d1b4e35dcdc2c8437f9869c3a90bfcb11954072e641ed5874741eb994"
 metafile = true
 
 [[files]]
@@ -78,6 +82,11 @@ hash = "ef64c5a55792e936ec3036497537e30e60ca475bbeb05979d9cd7ef7138189be"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
 metafile = true
@@ -134,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
+hash = "71249184c5506b137bed55fe2014637a34ff4f7fc79be9d7e416fcc7dbd7a6f7"
 metafile = true
 
 [[files]]
@@ -160,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f71550f98704bdda403df05c5ac5148a9bcd685825c60d46c53938049a86bb74"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "4c8be1c0bc09cf2a6ef82e4fdab03d17fa4f403cea043898d2b57d1162663d92"
 metafile = true
 
 [[files]]
@@ -315,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+metafile = true
+
+[[files]]
+file = "mods/json-things.pw.toml"
+hash = "09f312d16a1a26a7a66f7c577802a6f6e1c69e67183acc63c72462c81f5765a0"
 metafile = true
 
 [[files]]
@@ -523,12 +542,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e790a9da53c3791fd163da9c6d3cb61c08abc9314811943292f940a952aec35a"
+hash = "e3cd0d863cf704e2c84f099278694729b52c2bb2e77839618b528df3705bf6bf"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b90e2dd0159b32f6b78c81f5920771472237c40ff100008840d6021a66efea44"
+hash = "d8dce5b569ceb1bc9455820ecee8a4fd8a0d815651426dedba34776219030af3"
 metafile = true
 
 [[files]]
@@ -557,11 +576,6 @@ hash = "f9dc6cdf65679be1743c899ef1099b67c495770119caa153c914e0c078850438"
 metafile = true
 
 [[files]]
-file = "mods/tconjei.pw.toml"
-hash = "fcac7e5d5a41701c3c8d2e6c8f4029c0d19aa9b70c05bdb8fdcd016070c7e4af"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a29b866ff4071d15a6a51f95fc88cdc704d21c0b8ab10fa708e56b014fcb0071"
 metafile = true
@@ -572,13 +586,13 @@ hash = "b39f35693602d80a0909485dee4a3bacecd2861bd80d7949275dcf597cc41e67"
 metafile = true
 
 [[files]]
-file = "mods/the-pale-hound.pw.toml"
-hash = "5a456b11fb91da4986b93ed4e76fb939373370f5f0ead9a6b91113e993f80027"
+file = "mods/tinkers-construct.pw.toml"
+hash = "7b8d6cfd80c8bb39143d89a784d2ea7fb5b4f51f824b1d27a8daec88d06b15ab"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "7b8d6cfd80c8bb39143d89a784d2ea7fb5b4f51f824b1d27a8daec88d06b15ab"
+file = "mods/tinkers-katanas.pw.toml"
+hash = "b18009a1548165dec551d8798efddad5b42cf976d469eca0360e104e7a9febf1"
 metafile = true
 
 [[files]]

@@ -106,6 +106,7 @@ function Build-Modpack {
     Write-Host "[$(Get-Date -Format 'mm:ss')] Changing versions..."
     
     (Get-Content "$outputPath/pack.toml") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/pack.toml"
+    (Get-Content "$outputPath/config/bcc-common.toml") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/config/bcc-common.toml"
     if ($modpacktype -eq 'nano' -or $modpacktype -eq 'giga') {
     (Get-Content "$outputPath/config/fancymenu/custom_locals/mod/en_us.local") | ForEach-Object { $_ -replace "noVersion", "$global:selectedMPVersion" } | Set-Content "$outputPath/config/fancymenu/custom_locals/mod/en_us.local"
     }
