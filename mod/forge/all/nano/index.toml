@@ -31,6 +31,30 @@ file = "config/fancymenu/options.txt"
 file = "config/iceandfire-client.toml"
 
 [[files]]
+file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/en_us.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/uk_ua.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/en_us.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/uk_ua.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/pack.png"
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]
@@ -50,6 +74,3 @@ metafile = true
 [[files]]
 file = "mods/tconjei.pw.toml"
 metafile = true
-
-[[files]]
-file = "servers.dat"

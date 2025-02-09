@@ -69,10 +69,6 @@ file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-reimagined.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 metafile = true
 
@@ -158,10 +154,6 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/endofherobrine.pw.toml"
 metafile = true
 
 [[files]]
@@ -281,7 +273,12 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mowziesmobs-1.6.5.jar"
+file = "mods/mowzies-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/multiverse.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/obscure-api.pw.toml"
@@ -349,6 +346,10 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-login.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,16 @@
+{
+    "simplelogin.command.error.entry_not_found": "Запис для гравця %s не існує",
+    "simplelogin.command.about.info": "SimpleLogin версія %s для Minecraft 1.19.*",
+    "simplelogin.command.plugin.not_found": "Плагін не знайдено: %s",
+    "simplelogin.command.plugin.already_loaded": "Плагін вже завантажено: %s",
+    "simplelogin.command.plugin.load_success": "Плагін успішно завантажено: %s",
+    "simplelogin.command.plugin.not_loaded": "Плагін не завантажено: %s",
+    "simplelogin.command.plugin.unload_success": "Плагін успішно вивантажено: %s",
+    "simplelogin.command.plugin.available_plugin_header": "Список доступних плагінів:",
+    "simplelogin.command.plugin.loaded_plugin_header": "Список завантажених плагінів:",
+    "simplelogin.command.plugin.list_member": " - %s",
+    "simplelogin.info.password_change_successful": "Пароль успішно змінено.",
+    "simplelogin.info.password_change_fail": "Не вдалося змінити пароль.",
+    "simplelogin.password.title": "Встановіть новий пароль для гри на серверах"
+  }
+  
