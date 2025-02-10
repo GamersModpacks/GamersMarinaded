@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "20e1ef205014b9580f8a8b1b33d6ec96df398628c4f8cc50081fc724eeb3e11b"
+hash = "458030e9d043ccddb6682ea2a40894c3f181bd808587d39e214974510fc38822"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "228298c93c15dcb43963e78deb243072cd72c65bb705718577aaeed213231a5a"
+hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
 metafile = true
 
 [[files]]

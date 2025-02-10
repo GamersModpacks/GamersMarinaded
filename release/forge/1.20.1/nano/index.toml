@@ -22,7 +22,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "20e1ef205014b9580f8a8b1b33d6ec96df398628c4f8cc50081fc724eeb3e11b"
+hash = "458030e9d043ccddb6682ea2a40894c3f181bd808587d39e214974510fc38822"
 
 [[files]]
 file = "config/create-client.toml"
@@ -86,7 +86,7 @@ hash = "870f55ea0cf220bca61c3180c0f258e21673216026cfa18e2d95f2ac5da38835"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "6f3f6a1f856acf0e5e80126aabd11db90b92863d9d1e514eb210f36924dda902"
+hash = "15043511abf1561fbee66769b4a38b41dd17d713825067be3fcd611bfec88919"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -127,10 +127,6 @@ hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/en_us.json"
-hash = "5a5dfbfc4c8c3d3d94f73e949b2870e1ce8a112bf0fd6697437aa2df43f908e3"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/ru_ru.json"
@@ -689,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "228298c93c15dcb43963e78deb243072cd72c65bb705718577aaeed213231a5a"
+hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
 metafile = true
 
 [[files]]
