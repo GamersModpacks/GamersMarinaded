@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "458030e9d043ccddb6682ea2a40894c3f181bd808587d39e214974510fc38822"
+hash = "29b0ecc747135f3ce29a506480634fa741722915e6425e5144b143e2acc8b8d6"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "8a8be245a99113340c703437936243f4af3b1458f54cd5f63bf8544db130e699"
+hash = "34a8b17402001af5e632d093606e322bb0cb72cb4dd2c9d66b3ecbbaf5a5e42f"
 metafile = true
 
 [[files]]
@@ -407,18 +407,13 @@ hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "798292034e87cf33f6120f82b546985341b1bf91f2734b6305e331cd03fb5cc9"
-metafile = true
-
-[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0c3cfbe3bbc72fc8edb5ecef0d1567f6dc05778648b471062894baa87410e1f7"
+hash = "de97e8ce071f1974bb268130e5782a17812bddc53417810810b63342bbc15a62"
 metafile = true
 
 [[files]]
@@ -553,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "86743c0b759b76ab51972ae686a9bee3ee8c1361a274408f55c48691c2449c83"
+hash = "77140adc9cedf6568b1484e017d757d95c2d96fa82049c688477b87c8301628c"
 metafile = true
 
 [[files]]
