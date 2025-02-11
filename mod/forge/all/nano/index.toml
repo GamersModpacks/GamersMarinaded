@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
 file = "config/alexscaves-client.toml"
 
 [[files]]
@@ -22,6 +25,9 @@ file = "config/fancymenu/assets/icon32.png"
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
 file = "config/fancymenu/customization/main_menu.txt"
 
 [[files]]
@@ -31,13 +37,10 @@ file = "config/fancymenu/options.txt"
 file = "config/iceandfire-client.toml"
 
 [[files]]
-file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/en_us.json"
+file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/ru_ru.json"
 
 [[files]]
-file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/ru_ru.json"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/uk_ua.json"
+file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/uk_ua.json"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/en_us.json"
@@ -47,12 +50,6 @@ file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/ru
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/uk_ua.json"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/pack.png"
 
 [[files]]
 file = "config/quark-common.toml"

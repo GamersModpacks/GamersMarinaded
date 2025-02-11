@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "2e64a17783b193b59b6db480721345b34aff382567b93a745ab03ab7d9ffd2c6"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -22,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "458030e9d043ccddb6682ea2a40894c3f181bd808587d39e214974510fc38822"
+hash = "29b0ecc747135f3ce29a506480634fa741722915e6425e5144b143e2acc8b8d6"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,23 +78,23 @@ hash = "a5f74a69ba93324cc9add67df30f6be4348d4a15beeb3aa1b839e0c0fb50a586"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "870f55ea0cf220bca61c3180c0f258e21673216026cfa18e2d95f2ac5da38835"
+hash = "23f24b57913d9c1e235ae5b9286c6baf063734d7cded5ca1699f7f60a2326dc5"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "15043511abf1561fbee66769b4a38b41dd17d713825067be3fcd611bfec88919"
+hash = "218c8584d3e1063301660626445b6219619ec8850046a91a6bf0361dac4aea90"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "1437dcdabba502c4309a7d521312f7ec128a130fef6afa1c28b87ccc1b8283a9"
+hash = "853c6254dbafdc5c454c8f5deb0ef47f6741f358d3bcd38fa6e7bf7956868b38"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "58a77b213ab1f4207be6811332cfed6dcf0205a15b51c18b7cb2832a14489957"
+hash = "989f8f9fa1bba3712be63c30fd98365ed025d621e953fcc3b07303161f26e229"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -230,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "8a8be245a99113340c703437936243f4af3b1458f54cd5f63bf8544db130e699"
+hash = "34a8b17402001af5e632d093606e322bb0cb72cb4dd2c9d66b3ecbbaf5a5e42f"
 metafile = true
 
 [[files]]
@@ -441,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
@@ -669,18 +660,13 @@ hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "798292034e87cf33f6120f82b546985341b1bf91f2734b6305e331cd03fb5cc9"
-metafile = true
-
-[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0c3cfbe3bbc72fc8edb5ecef0d1567f6dc05778648b471062894baa87410e1f7"
+hash = "de97e8ce071f1974bb268130e5782a17812bddc53417810810b63342bbc15a62"
 metafile = true
 
 [[files]]
@@ -835,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "86743c0b759b76ab51972ae686a9bee3ee8c1361a274408f55c48691c2449c83"
+hash = "77140adc9cedf6568b1484e017d757d95c2d96fa82049c688477b87c8301628c"
 metafile = true
 
 [[files]]
@@ -865,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/tconjei.pw.toml"
-hash = "fcac7e5d5a41701c3c8d2e6c8f4029c0d19aa9b70c05bdb8fdcd016070c7e4af"
+hash = "f55b685bee0ad01a65a89f20a741b50b476f3856f44a78d00f91a72361b8a234"
 metafile = true
 
 [[files]]
