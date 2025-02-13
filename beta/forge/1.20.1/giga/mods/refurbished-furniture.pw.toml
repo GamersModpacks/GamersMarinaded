@@ -1,13 +1,13 @@
 name = "MrCrayfish's Furniture Mod: Refurbished"
-filename = "refurbished_furniture-forge-1.20.1-1.0.8.jar"
+filename = "refurbished_furniture-forge-1.20.1-1.0.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d9cd91ba83b49143f42e1045e63bf8b8adf85b5f"
+hash = "6571965d70cb59e36da8f096683d88ece280a5c8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5893833
+file-id = 6182352
 project-id = 897116

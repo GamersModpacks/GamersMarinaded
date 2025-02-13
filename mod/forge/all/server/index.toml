@@ -277,10 +277,6 @@ file = "mods/mowzies-mobs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/multiverse.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/obscure-api.pw.toml"
 metafile = true
 

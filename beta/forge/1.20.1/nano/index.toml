@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "29b0ecc747135f3ce29a506480634fa741722915e6425e5144b143e2acc8b8d6"
+hash = "c235a22426d70a52fc3610191bf61caa6f30906146fd768f164f6f414546b34e"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "23f24b57913d9c1e235ae5b9286c6baf063734d7cded5ca1699f7f60a2326dc5"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "218c8584d3e1063301660626445b6219619ec8850046a91a6bf0361dac4aea90"
+hash = "a8af8d9c112fc92d4b2e26f76a9f35e5d4a56cc0b79b6ea209e11b1c68c0b78f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -123,14 +123,6 @@ hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/ru_ru.json"
-hash = "6deb78516fd8c47181af07ff9364dd7df41ff013e5ee3dc09dd564b13b972718"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/multiverse/lang/uk_ua.json"
-hash = "2ced9949dcdc9d9707332dced5e379b264d09f1e92ad7e33a854d0980e0c6524"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/en_us.json"
@@ -606,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "fb6ec3b3cc3c670de11dd3ddc20d6cab8ba353a39b6f34c4a9652bec5990a425"
+hash = "01c83dbe3a427ee897b756e1ac2908ebdf8dad1bc46b56f3064d446a1ce0df0a"
 metafile = true
 
 [[files]]
@@ -666,17 +658,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "de97e8ce071f1974bb268130e5782a17812bddc53417810810b63342bbc15a62"
+hash = "95bb06639208ae6e150741077f3fd6ac128564a03b0a4ff7c984ff937ab962db"
 metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
-metafile = true
-
-[[files]]
-file = "mods/multiverse.pw.toml"
-hash = "9546dd0afe2883042864d05a9ea19edcf479bb86955e7fe71c7536863f1cef63"
 metafile = true
 
 [[files]]
@@ -776,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "34d6d4a637ff413bd2bfd5cb7607d0df958e4ac7aa94233a35568b5e55f5ff49"
+hash = "0fb014967acd6c2724313beefa286a1b72ed24a285377add8593a506fa73c30c"
 metafile = true
 
 [[files]]
@@ -821,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "77140adc9cedf6568b1484e017d757d95c2d96fa82049c688477b87c8301628c"
+hash = "5c595922e935c011adde2fbd87efb8f87ef285baaec1134b7bc22faea4b4c92f"
 metafile = true
 
 [[files]]
@@ -916,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
+hash = "8a610e06ddb20cbdd1fb1227d01069b172159708bffc008b067d75e18cb5b91a"
 metafile = true
 
 [[files]]

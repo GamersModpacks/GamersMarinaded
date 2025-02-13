@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-
-[[files]]
 file = "config/alexscaves-client.toml"
 
 [[files]]
@@ -23,9 +20,6 @@ file = "config/fancymenu/assets/icon32.png"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
