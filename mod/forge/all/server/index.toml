@@ -81,6 +81,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 metafile = true
 
@@ -94,10 +98,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
 metafile = true
 
 [[files]]
@@ -329,6 +329,14 @@ file = "mods/playeranimator.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 metafile = true
 
@@ -377,7 +385,7 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-knocker.pw.toml"
+file = "mods/the-twilight-forest.pw.toml"
 metafile = true
 
 [[files]]

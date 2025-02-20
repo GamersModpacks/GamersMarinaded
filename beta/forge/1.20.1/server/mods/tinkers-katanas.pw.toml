@@ -1,13 +1,13 @@
 name = "Tinkers' Katanas"
-filename = "TinkersKatanas_v1.3.1.jar"
+filename = "TinkersKatanas_v1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3340da362aad03f14cb808663a9b765a735e172c"
+hash = "08ff335cf819c7172da005c6a32d204e3f8e54b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6141315
+file-id = 6197699
 project-id = 884944
