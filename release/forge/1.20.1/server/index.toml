@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "010ae40de47272e8815039d2e7cb572e91c27765d0a214d9e9a974035d613329"
+hash = "ed6cebe33b0d03eaac8ada0f2d034218df534df2b165fde81c816dfdcc4af7aa"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -59,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "38103be59374235d374df598f6ec57425167fb71ba8d1f7e0976d3bd1797f7ff"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ce0e9fa014aa89feba5a400cdf445299f7c1450fff978b15dbd72fbc8cec7552"
 metafile = true
 
 [[files]]
@@ -143,12 +148,17 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "2ca034cc8455abf96488505709b78baee7f2887047f52147bc437c1a9a19fd85"
+hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
 metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "63d9c19b6c10f8eb40070270513036dcbb525bcecd328d018941d14076266f93"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -233,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6bcbe0a5adf88912c5ef6126cb30e20f508f8c173fb0a8baf3a62e610f33a4e6"
+hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
 metafile = true
 
 [[files]]
@@ -327,6 +337,11 @@ hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "dca44614a72da5f7d2d57823cc54aaf3335d652c1a447a6e5df2e60365a6ea95"
+metafile = true
+
+[[files]]
 file = "mods/json-things.pw.toml"
 hash = "09f312d16a1a26a7a66f7c577802a6f6e1c69e67183acc63c72462c81f5765a0"
 metafile = true
@@ -413,12 +428,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a017f7dc2f401bfe54ba3c1d7674dfa7d99cc798912873a00a957c3fcd70cb0e"
+hash = "7e1ff7960c293644f7ca3e5dfc15da800e756168db37f417724c933216f9c796"
 metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
+hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
 metafile = true
 
 [[files]]
@@ -448,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "738a9ff73992d4ced2f720ab28a6179b467a89e77cfebe175403a7816ac9e89b"
+hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
 metafile = true
 
 [[files]]
@@ -493,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "b8b1e8600a8031e54ae82864289044f8f0c647154e7130773ce6a54c511f30bf"
+hash = "91ed735932a8b7d260ec01278f3fef8c20380ba6ac21b65811bdffc1529e5cb3"
 metafile = true
 
 [[files]]
@@ -543,17 +558,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
+hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a888e637090c327c164ad53a01e42c8744cfba76458465b98b4b06f8dffdf38e"
+hash = "a57d19d497cf458f524a95c11a1f31684831e11e5e5b940bf1f88aca204668d4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "cc309096458c4a86f8a84ac953a841b58076817a48d6a7f7dbfeea2ee695f432"
+hash = "0438dc55a4e381130ee55e3d5517bbb1286ddac14f485239a3f45733f42f67ea"
 metafile = true
 
 [[files]]
@@ -578,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0d0048ae6db9220b8fe790b1f973406e5ca2535c77cf930da51c5fd431a0db47"
+hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Mowzie's Mobs"
-filename = "mowziesmobs-1.6.5.jar"
+filename = "mowziesmobs-1.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "00e9ecc9d298c2fd4a74e96af792a5a04f2b7623"
+hash = "d8a0d78de3d0792ac64a767c42ba16c43f8e0234"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5399941
+file-id = 6224182
 project-id = 250498
