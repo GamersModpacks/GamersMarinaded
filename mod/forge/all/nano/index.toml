@@ -31,6 +31,9 @@ file = "config/fancymenu/options.txt"
 file = "config/iceandfire-client.toml"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/en_us.json"
 
 [[files]]

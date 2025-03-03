@@ -1,0 +1,13 @@
+name = "Origins: Interloper"
+filename = "Interloper.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3bIy0qm/versions/5SIr4tjT/Interloper.zip"
+hash-format = "sha512"
+hash = "60cc3d9a1511867eb0d484dc9ad0f43fc8e8337291cee0dce744f72218cf77bbf6b19f2d72974d5d6dff15609629283b0424c63fe3047e50fd566e1d8aa5cab3"
+
+[update]
+[update.modrinth]
+mod-id = "x3bIy0qm"
+version = "5SIr4tjT"

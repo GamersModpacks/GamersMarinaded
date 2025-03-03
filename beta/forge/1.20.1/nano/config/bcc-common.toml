@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "GamersMarinaded"
+	modpackName = "GamersMarinaded 2"
 	#The version of the modpack
-	modpackVersion = "v14"
+	modpackVersion = "v15"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

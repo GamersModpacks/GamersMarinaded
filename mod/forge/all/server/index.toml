@@ -7,6 +7,13 @@ file = "config/bcc-common.toml"
 file = "config/does_it_tick-common.toml"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+
+[[files]]
+file = "config/openloader/data/interloper.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]
@@ -14,10 +21,6 @@ file = "config/vampirism-common.toml"
 
 [[files]]
 file = "mods/ae2.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/alexs-caves.pw.toml"
 metafile = true
 
 [[files]]
@@ -33,11 +36,11 @@ file = "mods/ancient-golems.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-botanics.pw.toml"
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+file = "mods/aquaculture.pw.toml"
 metafile = true
 
 [[files]]
@@ -49,23 +52,31 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/astemirlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
@@ -89,7 +100,15 @@ file = "mods/corail-tombstone.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craft-of-the-wild-cotw.pw.toml"
 metafile = true
 
 [[files]]
@@ -97,43 +116,15 @@ file = "mods/create-applied-kinetics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-connected.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-utilities.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
+file = "mods/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
+file = "mods/critters-and-companions.pw.toml"
 metafile = true
 
 [[files]]
@@ -157,10 +148,6 @@ file = "mods/curios.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 metafile = true
 
@@ -181,6 +168,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/formations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 metafile = true
 
@@ -190,6 +181,10 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
 metafile = true
 
 [[files]]
@@ -237,15 +232,11 @@ file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+file = "mods/lendercataclysm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
+file = "mods/lionfish-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -254,6 +245,14 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/medieval-origins-revival.pw.toml"
 metafile = true
 
 [[files]]
@@ -273,10 +272,6 @@ file = "mods/mekanism.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 metafile = true
 
@@ -289,6 +284,10 @@ file = "mods/mowzies-mobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mystics-biomes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 metafile = true
 
@@ -297,11 +296,15 @@ file = "mods/octo-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/origins-classes-forge.pw.toml"
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
@@ -309,19 +312,11 @@ file = "mods/origins-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/origins-plus-plus.pw.toml"
+file = "mods/origins-kitsune.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/passive-skill-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -334,14 +329,6 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
 metafile = true
 
 [[files]]
@@ -365,15 +352,15 @@ file = "mods/relics-mod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shineals-prehistoric-expansion.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simple-login.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
+file = "mods/smartbrainlib.pw.toml"
 metafile = true
 
 [[files]]
@@ -382,6 +369,10 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stellarity.pw.toml"
 metafile = true
 
 [[files]]
@@ -394,6 +385,14 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-dawn-era.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -417,11 +416,23 @@ file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/travelers-backpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-desert.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-integrations.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/vampirism.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus.pw.toml"
 metafile = true
 
 [[files]]
@@ -438,6 +449,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yes-steve-model.pw.toml"
 metafile = true
 
 [[files]]

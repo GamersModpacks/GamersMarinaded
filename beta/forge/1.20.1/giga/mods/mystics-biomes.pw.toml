@@ -1,0 +1,13 @@
+name = "Mystic's Biomes"
+filename = "mysticsbiomes-1.20.1-3.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kUpOjknA/versions/Ddy56mDz/mysticsbiomes-1.20.1-3.4.2.jar"
+hash-format = "sha512"
+hash = "ba7d84beb5b39e5208d638e21c763ec107ed33cbff3220c1f2938229812d3f386ee5a3a20c2b48f874cb212e0a61366730b3c414ff85db429c82d569dc269541"
+
+[update]
+[update.modrinth]
+mod-id = "kUpOjknA"
+version = "Ddy56mDz"
