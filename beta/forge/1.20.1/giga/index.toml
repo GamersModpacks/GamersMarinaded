@@ -227,7 +227,7 @@ hash = "b8cda69116e49aa9c725c7727f1606a684e45b2fcacf96a01ea738ec837ed774"
 
 [[files]]
 file = "config/yes_steve_model-common.toml"
-hash = "fb81b407de895aeb1968ab58a50e58e08bcd8a8d8d03e0b5e0d9b340c497a73e"
+hash = "dc9f9253ecb74207c0fdd443ccb6d3a82fd12deac211f5dbbc207c2086f24392"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
