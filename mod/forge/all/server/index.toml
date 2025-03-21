@@ -200,7 +200,15 @@ file = "mods/ice-and-fire-dragons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
 metafile = true
 
 [[files]]
@@ -332,6 +340,10 @@ file = "mods/philips-ruins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 metafile = true
 
@@ -457,4 +469,8 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 metafile = true
