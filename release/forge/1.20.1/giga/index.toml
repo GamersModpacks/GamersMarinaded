@@ -22,7 +22,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7da054bdbe99c30ac693785d82e3dc8824a30bea24df92789b5a7d1b5c425910"
+hash = "dc139123c7f66941fd9057b7124515e89cdfb5bbdbb9e6aa6b59b74f3c073af8"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -94,7 +94,7 @@ hash = "4d3570c669e71e9e2db5a6c56ef01b3debd1b36f28d04de6b724a6e42a918756"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "74902c52cd72f53b760f5b0ec7d58fe1b622462e36b217207439a0df954d5cf5"
+hash = "7de311f074118110da2edc4e2c4f7c1d46ccf2663318345d23634d5708bc210e"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -413,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
-metafile = true
-
-[[files]]
-file = "mods/craft-of-the-wild-cotw.pw.toml"
-hash = "121793c569c29310aef3ca1e46b91e6296f3283c0b5dd05e99113ac9b1ac8b49"
 metafile = true
 
 [[files]]
@@ -968,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/the-dawn-era.pw.toml"
-hash = "34c81b2a1aef005d8bc12893605724a4a06d70ba7724cee1437f19833ac59a0b"
 metafile = true
 
 [[files]]

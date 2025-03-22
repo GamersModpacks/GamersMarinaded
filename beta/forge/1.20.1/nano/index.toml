@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db41d83cb779ce6d291ff1ffa7d1cfc344179dcaf72946e3b6a15ae7557cc193"
+hash = "dc139123c7f66941fd9057b7124515e89cdfb5bbdbb9e6aa6b59b74f3c073af8"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -86,7 +86,7 @@ hash = "4d3570c669e71e9e2db5a6c56ef01b3debd1b36f28d04de6b724a6e42a918756"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "88919680f5b51ec33a54082eb54262c63622a90a4c108b2e857ac8a8a50b14db"
+hash = "7de311f074118110da2edc4e2c4f7c1d46ccf2663318345d23634d5708bc210e"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -377,11 +377,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
-metafile = true
-
-[[files]]
-file = "mods/craft-of-the-wild-cotw.pw.toml"
-hash = "121793c569c29310aef3ca1e46b91e6296f3283c0b5dd05e99113ac9b1ac8b49"
 metafile = true
 
 [[files]]

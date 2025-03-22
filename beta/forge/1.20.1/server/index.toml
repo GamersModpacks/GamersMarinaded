@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db41d83cb779ce6d291ff1ffa7d1cfc344179dcaf72946e3b6a15ae7557cc193"
+hash = "dc139123c7f66941fd9057b7124515e89cdfb5bbdbb9e6aa6b59b74f3c073af8"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -178,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
-metafile = true
-
-[[files]]
-file = "mods/craft-of-the-wild-cotw.pw.toml"
-hash = "121793c569c29310aef3ca1e46b91e6296f3283c0b5dd05e99113ac9b1ac8b49"
 metafile = true
 
 [[files]]
