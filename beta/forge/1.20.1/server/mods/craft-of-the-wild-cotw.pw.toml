@@ -1,0 +1,13 @@
+name = "Craft Of The Wild (COTW)"
+filename = "craft_of_the_wild-forge-1.20.1-1.0.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4279807739051c8a2bc4091648280e36aab6ee39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6022320
+project-id = 1113256

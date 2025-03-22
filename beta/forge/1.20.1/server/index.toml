@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6e3015a193de382a1cb5b13116e621ab2470af4b89867c2888f8b50428a6b314"
+hash = "db41d83cb779ce6d291ff1ffa7d1cfc344179dcaf72946e3b6a15ae7557cc193"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/craft-of-the-wild-cotw.pw.toml"
+hash = "121793c569c29310aef3ca1e46b91e6296f3283c0b5dd05e99113ac9b1ac8b49"
 metafile = true
 
 [[files]]
@@ -598,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/the-dawn-era.pw.toml"
-hash = "34c81b2a1aef005d8bc12893605724a4a06d70ba7724cee1437f19833ac59a0b"
 metafile = true
 
 [[files]]

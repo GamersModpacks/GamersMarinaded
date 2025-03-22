@@ -400,10 +400,6 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-dawn-era.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 metafile = true
 

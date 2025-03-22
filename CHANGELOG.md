@@ -56,7 +56,6 @@
 - ShineaL's Prehistoric Expansion
 - SmartBrainLib (Forge/Fabric/Quilt)
 - Stellarity
-- The Dawn Era
 - The Graveyard (FORGE/NEOFORGE)
 - Traveler's Backpack
 - Unnamed Desert
