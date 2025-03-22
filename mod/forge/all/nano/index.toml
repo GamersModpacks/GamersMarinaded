@@ -43,6 +43,10 @@ file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/ru
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/uk_ua.json"
 
 [[files]]
+file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]

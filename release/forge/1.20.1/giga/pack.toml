@@ -1,16 +1,17 @@
-name = "GamersMarinaded"
+name = "GamersMarinaded 2"
 author = "Gamers"
-version = "v14"
+version = "2-v1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2308413065caf76a2f2683d0ee7610d6beee18a8acecd8d774e107859744a36c"
+hash = "728eae795ce18f3a091025b4b39a8c3573a6f48347e6f98eefcaaf40c4f54cb1"
 
 [versions]
-forge = "47.3.29"
+forge = "47.4.0"
 minecraft = "1.20.1"
 
 [options]
+datapack-folder = "config/openloader/data"
 no-internal-hashes = "true"

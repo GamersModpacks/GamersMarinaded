@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e90ecb75c86b1430d7a3b3b77f4cd43a21aaa3c2f2fc32878d58f920c8dd4060"
+hash = "7da054bdbe99c30ac693785d82e3dc8824a30bea24df92789b5a7d1b5c425910"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "963affd34d23482ac4e15116b99e6ad996cfa6d4e92006dcebcd7768cc6f66b6"
+hash = "6a67d4853cd6c694400f4018bd99cdeeccce20d45264d8c70581710f848a6f32"
 metafile = true
 
 [[files]]

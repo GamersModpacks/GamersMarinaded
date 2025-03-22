@@ -1,13 +1,13 @@
 name = "Vampirism"
-filename = "Vampirism-1.20.1-1.10.12.jar"
+filename = "Vampirism-1.20.1-1.10.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jVZ0F1wn/versions/FP5CsB4Z/Vampirism-1.20.1-1.10.12.jar"
+url = "https://cdn.modrinth.com/data/jVZ0F1wn/versions/dBEdKX9l/Vampirism-1.20.1-1.10.13.jar"
 hash-format = "sha512"
-hash = "d6dfe0d755918e40393044bc41842ccecb8f09fcfd2e45b6c6ca20f69d382b6a181af912fc384bad4e414f41d83fe17bcf84485f376605c58087f697fe35513c"
+hash = "7ce29ec2fa2c19f3b86c17cccff855b43ee642bcc2a2acbf9d3965e839a09db68a248d247209466bb8d85872291398cb26fc180fe727ccb53b23f81530f3e252"
 
 [update]
 [update.modrinth]
 mod-id = "jVZ0F1wn"
-version = "FP5CsB4Z"
+version = "dBEdKX9l"
