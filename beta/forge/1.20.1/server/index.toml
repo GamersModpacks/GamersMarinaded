@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dc139123c7f66941fd9057b7124515e89cdfb5bbdbb9e6aa6b59b74f3c073af8"
+hash = "716d44543f33e2b8608d9c1b17d65ada661a45ce83ac1dd4f961991ffaa29bd4"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -476,6 +476,11 @@ hash = "9866501ed4eee0591db3eb8b9f82305bd225ce2e0bde6de6267e068cf18f1e9b"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
 metafile = true
@@ -683,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+metafile = true
+
+[[files]]
+file = "mods/yes-steve-model.pw.toml"
+hash = "4b3e99f99881012bdb148ea37d3d089181500f2fe9ca8541050453b6ced8a843"
 metafile = true
 
 [[files]]

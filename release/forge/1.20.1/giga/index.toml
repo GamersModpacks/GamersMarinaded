@@ -22,7 +22,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dc139123c7f66941fd9057b7124515e89cdfb5bbdbb9e6aa6b59b74f3c073af8"
+hash = "716d44543f33e2b8608d9c1b17d65ada661a45ce83ac1dd4f961991ffaa29bd4"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -90,11 +90,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "4d3570c669e71e9e2db5a6c56ef01b3debd1b36f28d04de6b724a6e42a918756"
+hash = "73e25daf1708f6f1fd357cc5cd675455daf051595ad9545c6eb52d572e90f106"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "7de311f074118110da2edc4e2c4f7c1d46ccf2663318345d23634d5708bc210e"
+hash = "ac9e76cb34ce2ff23776f1a3b070b417b0bd86477d27de5b21b482ae87bf2b70"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "a667c1e826438c5d879ff19c99d1544b726eb96e52bd9567ff40de908cf144ec"
+hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]
