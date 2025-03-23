@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "716d44543f33e2b8608d9c1b17d65ada661a45ce83ac1dd4f961991ffaa29bd4"
+hash = "a3cd0922d7fe5734198d45cb04f91ac1098a593fdfd9877954097f8189934574"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -431,6 +431,11 @@ hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
 metafile = true
 
 [[files]]
+file = "mods/more-player-models.pw.toml"
+hash = "dfacc21c62f9a972e1de07a3438c8a2b774f46d3bfbbf1bdf83c5c9af49d24ef"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
 metafile = true
@@ -688,11 +693,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
-metafile = true
-
-[[files]]
-file = "mods/yes-steve-model.pw.toml"
-hash = "4b3e99f99881012bdb148ea37d3d089181500f2fe9ca8541050453b6ced8a843"
 metafile = true
 
 [[files]]

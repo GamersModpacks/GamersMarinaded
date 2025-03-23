@@ -284,6 +284,10 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-player-models.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 metafile = true
 
@@ -453,10 +457,6 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yes-steve-model.pw.toml"
 metafile = true
 
 [[files]]

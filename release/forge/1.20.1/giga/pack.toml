@@ -1,12 +1,12 @@
 name = "GamersMarinaded 2"
 author = "Gamers"
-version = "v1.4"
+version = "v1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ff8613370f153ccd27d8a81c7f68827e2829fc4a1f6c7bc939b633d1529b4f97"
+hash = "e08350913dcbc878bee392c63301f2a19c6bf0e66c4e237896e22812a833ad94"
 
 [versions]
 forge = "47.4.0"

@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "716d44543f33e2b8608d9c1b17d65ada661a45ce83ac1dd4f961991ffaa29bd4"
+hash = "a3cd0922d7fe5734198d45cb04f91ac1098a593fdfd9877954097f8189934574"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -30,7 +30,7 @@ hash = "75c701ead9640df7a2de1306e6851da82957f6c57ac6d48ce0b82d825deee9e3"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
+hash = "c550ebddfc6c27f8c2411e0fcf8a914f4da52427eb07c327617b0fbbf0321513"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -86,7 +86,7 @@ hash = "73e25daf1708f6f1fd357cc5cd675455daf051595ad9545c6eb52d572e90f106"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "ac9e76cb34ce2ff23776f1a3b070b417b0bd86477d27de5b21b482ae87bf2b70"
+hash = "db3f9177fe295158e79e3d5ad3b6f5878f11ae558cd9b3fce88bd4f1ad6e4b21"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -685,6 +685,11 @@ hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
 metafile = true
 
 [[files]]
+file = "mods/more-player-models.pw.toml"
+hash = "dfacc21c62f9a972e1de07a3438c8a2b774f46d3bfbbf1bdf83c5c9af49d24ef"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
 metafile = true
@@ -970,11 +975,10 @@ hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
-file = "mods/yes-steve-model.pw.toml"
-hash = "4b3e99f99881012bdb148ea37d3d089181500f2fe9ca8541050453b6ced8a843"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 hash = "10159218a704c3ce1ffd89c9ba93e5f0e439783334f8746b7c44a0d661819a26"
 metafile = true
+
+[[files]]
+file = "moreplayermodels/config/MorePlayerModels.cfg"
+hash = "773baeb2043089059e075741317367965c29394f7caf2cda210d3975f585deab"

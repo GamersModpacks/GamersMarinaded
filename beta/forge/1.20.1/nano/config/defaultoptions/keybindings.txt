@@ -8,3 +8,4 @@ key_key.push_to_talk:key.keyboard.v
 key_key.voice_chat:key.keyboard.unknown
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
+key_quark.keybind.camera_mode:key.keyboard.unknown
