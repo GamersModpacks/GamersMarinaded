@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a3cd0922d7fe5734198d45cb04f91ac1098a593fdfd9877954097f8189934574"
+hash = "caf54287a4102db4a64eb91a4e1efb29c069f00d2d1f51d15c228f1efcd91d09"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "393d87e7f52a2f9552255e1e28843e51b8679254a34216d0134ea4865977d7c2"
+hash = "ed5f1ebd22c22e84d6f4c6eb0c940deeb6f6e528b1608debd4c7d9fb1088df5b"
 metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "92d4db1c37b50135a998bd36f8aff6d87a2753616e03db3fdb9ff478c3e47e3b"
+hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fb0e6516a0ca152369d89cee798d99d75255b535b2be7f84aea80871adebc8d6"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -376,13 +376,18 @@ hash = "d171acd90da5df8212928557ec535d47d82a1daccc6b8e279af8941c5925d46a"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
 metafile = true
 
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
-hash = "d2a14175b56cb1c1ed8f6b973d9fe8e749e75995dce6667c1f7f569c0abd98aa"
+hash = "0f86c191d4463d07b14fe8d25114a6e06274cdc875218511bc029f9f83265542"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "996ca5cffe064c84a67ec8d823852d23abcfbfcea36498172f225b3b02a27e94"
+hash = "1f3c0b3e020fdc9951283ae3de22c6158e44864fcf64c469589cfe0913594bb7"
 metafile = true
 
 [[files]]
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
 metafile = true
 
 [[files]]

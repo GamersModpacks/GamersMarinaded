@@ -1,0 +1,13 @@
+name = "Playermodels Addon"
+filename = "MPM_Addon_V0.4.0b.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aM4MdtkG/versions/9qZBt6yo/MPM_Addon_V0.4.0b.zip"
+hash-format = "sha512"
+hash = "2088efdde9db2f6323a431f40bd680fdc1b6e05f2bcce16b5debb384f2fa828697dfe5df7d9bfd9827b7cb210fc88f0996bd66a2f76db3a52866dcc23841c05e"
+
+[update]
+[update.modrinth]
+mod-id = "aM4MdtkG"
+version = "9qZBt6yo"

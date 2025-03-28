@@ -248,6 +248,10 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 metafile = true
 
@@ -345,6 +349,10 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
 metafile = true
 
 [[files]]
@@ -461,4 +469,8 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mpm_addon.pw.toml"
 metafile = true

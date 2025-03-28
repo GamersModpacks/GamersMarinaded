@@ -22,7 +22,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a3cd0922d7fe5734198d45cb04f91ac1098a593fdfd9877954097f8189934574"
+hash = "caf54287a4102db4a64eb91a4e1efb29c069f00d2d1f51d15c228f1efcd91d09"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -47,10 +47,6 @@ hash = "e15c0ab7643ff1e6e6bc29ea2cb63243f8fca7fbaf6fa39317f3fe0e997af658"
 [[files]]
 file = "config/does_it_tick-common.toml"
 hash = "83c07cbb13d3bd3c37ded9e8f431851a4bcf51a80a711a3d235a56ade5dc2d38"
-
-[[files]]
-file = "config/embeddium++.toml"
-hash = "2714df626cc4da3f8a697ad46846fa75fdf7b4ae1c90d5a6e4753f08c35cb62a"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -90,11 +86,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "73e25daf1708f6f1fd357cc5cd675455daf051595ad9545c6eb52d572e90f106"
+hash = "f3415d72ef498809afddb684e4c99c4c1acc1f99fc307128827fdbfea26f4949"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "db3f9177fe295158e79e3d5ad3b6f5878f11ae558cd9b3fce88bd4f1ad6e4b21"
+hash = "614e4a5d5124161056fa6ff0b86b1e2b03f496235c65721594a3fd0dd0ced8bc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -146,6 +142,10 @@ hash = "562bc3520430b342329be3410279eefbc64f2a126d4ff95a76c52bff93d52d0e"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/MPM_Long_Tails_Pack.zip"
+hash = "a1043e083555d34846ac1e3bf9a4c8df0877e0a6d2b1a3286d83dce355359ad0"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/assets/packframework/lang/en_us.json"
 hash = "5bd5a58d88b5f671151a42bac9976a44e0b71d6da7bc614a8c90be11ef33465c"
 
@@ -178,6 +178,14 @@ file = "config/openloader/resources/ModPack Resources/pack.png"
 hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
+file = "config/openloader/resources/Ruvys MPM Master Pack 1.1.zip"
+hash = "1e57f80a591b52191d7f6a65192d8b9bbb11efc7863783f3c293be7b2a15984f"
+
+[[files]]
+file = "config/openloader/resources/corvus_addon_1.zip"
+hash = "797003d1a140ed4ae5e2cea05582103e7e666c1a373e98be4048d9e3a96130c5"
+
+[[files]]
 file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
@@ -190,6 +198,11 @@ metafile = true
 [[files]]
 file = "config/openloader/resources/default-dark-mode.pw.toml"
 hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/mpm_addon.pw.toml"
+hash = "b0c164e4d2f41441a94cc575a8144bd5e21ee418f31c92544ca191c52a81a882"
 metafile = true
 
 [[files]]
@@ -323,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3963c0d3a3c94099d5bf9920de2de9d1bd32147d76ce935bfccca6983dc45cb5"
+hash = "7765c7651011d2d485ebe58122fd43925e94701f586319b198187ad2b373c2d3"
 metafile = true
 
 [[files]]
@@ -478,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "393d87e7f52a2f9552255e1e28843e51b8679254a34216d0134ea4865977d7c2"
+hash = "ed5f1ebd22c22e84d6f4c6eb0c940deeb6f6e528b1608debd4c7d9fb1088df5b"
 metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "92d4db1c37b50135a998bd36f8aff6d87a2753616e03db3fdb9ff478c3e47e3b"
+hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
 metafile = true
 
 [[files]]
@@ -518,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
+hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
@@ -558,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fb0e6516a0ca152369d89cee798d99d75255b535b2be7f84aea80871adebc8d6"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -687,13 +700,18 @@ hash = "d171acd90da5df8212928557ec535d47d82a1daccc6b8e279af8941c5925d46a"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
 metafile = true
 
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
-hash = "d2a14175b56cb1c1ed8f6b973d9fe8e749e75995dce6667c1f7f569c0abd98aa"
+hash = "0f86c191d4463d07b14fe8d25114a6e06274cdc875218511bc029f9f83265542"
 metafile = true
 
 [[files]]
@@ -793,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "996ca5cffe064c84a67ec8d823852d23abcfbfcea36498172f225b3b02a27e94"
+hash = "1f3c0b3e020fdc9951283ae3de22c6158e44864fcf64c469589cfe0913594bb7"
 metafile = true
 
 [[files]]
@@ -852,8 +870,13 @@ hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
-hash = "8879f3e443eb66ae7ac3a778ebe201823ce9beb952bd13560e97558d34252a59"
+hash = "f5da6ace157d938062bbdb589be2f34fd32aa29b051efa01b774338389400775"
 metafile = true
 
 [[files]]
