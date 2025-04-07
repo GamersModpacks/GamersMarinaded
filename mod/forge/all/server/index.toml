@@ -256,6 +256,10 @@ file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 metafile = true
 

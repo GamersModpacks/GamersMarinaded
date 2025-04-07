@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2bc5c05c471b74064a44707c328f8086e345a8ec73c2b56c3bf88cb9f61bc3d6"
+hash = "f67c2ae123ebfbceba05933dbf2da7ff6e0608900636d913a8d2a67a47fd5661"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -82,7 +82,7 @@ hash = "5d22484f8e4c2c55feb8c5df67014e78eca62282df3160aa1fa038324fa3d8e9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "db6e9876947ef42ecf203ea9d2e718cb2c95e17e5d52d054c79569aca44fa3bf"
+hash = "25e49f4318814147e1cbb2927b713f620a6ed443988e5e52aa4efc6624bf4a12"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -645,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "3318fc82012c5471aa0c0fbde8585f36e2557a97836108fcadb7fe0b8f7647af"
 metafile = true
 
 [[files]]

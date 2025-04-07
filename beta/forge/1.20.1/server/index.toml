@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2bc5c05c471b74064a44707c328f8086e345a8ec73c2b56c3bf88cb9f61bc3d6"
+hash = "f67c2ae123ebfbceba05933dbf2da7ff6e0608900636d913a8d2a67a47fd5661"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -383,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "3318fc82012c5471aa0c0fbde8585f36e2557a97836108fcadb7fe0b8f7647af"
 metafile = true
 
 [[files]]
