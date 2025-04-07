@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6976cda270c04e43bd239f3b384d6a1e3d3ca78d3fc7a488b953443091963b76"
+hash = "2bc5c05c471b74064a44707c328f8086e345a8ec73c2b56c3bf88cb9f61bc3d6"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
@@ -263,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "38f1fcd04e67ccafb0c8794658d0f98c94dc9d300c825f8b85fa434a45a32170"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "90b1dbb488e42623788abdaa6afe9808aa811a57fac8f76f3153092e06152836"
 metafile = true
 
 [[files]]
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "645b7f787ddcde08094e315c356f9e5e102ca0b365d614d9068fd897229ea47f"
 metafile = true
 
 [[files]]

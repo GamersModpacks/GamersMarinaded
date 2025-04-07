@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "GamersMarinaded 2"
 	#The version of the modpack
-	modpackVersion = "v3b1"
+	modpackVersion = "v3b2"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

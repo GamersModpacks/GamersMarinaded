@@ -168,6 +168,10 @@ file = "mods/formations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 metafile = true
 
@@ -345,6 +349,10 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
 metafile = true
 
 [[files]]

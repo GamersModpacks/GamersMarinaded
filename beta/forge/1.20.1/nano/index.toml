@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6976cda270c04e43bd239f3b384d6a1e3d3ca78d3fc7a488b953443091963b76"
+hash = "2bc5c05c471b74064a44707c328f8086e345a8ec73c2b56c3bf88cb9f61bc3d6"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -82,7 +82,7 @@ hash = "5d22484f8e4c2c55feb8c5df67014e78eca62282df3160aa1fa038324fa3d8e9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "34ef3c0da53308cb4c743eef5a2bd3776008816e7d570e7fd52f0c600db88a5d"
+hash = "db6e9876947ef42ecf203ea9d2e718cb2c95e17e5d52d054c79569aca44fa3bf"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -508,6 +508,11 @@ hash = "38f1fcd04e67ccafb0c8794658d0f98c94dc9d300c825f8b85fa434a45a32170"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "90b1dbb488e42623788abdaa6afe9808aa811a57fac8f76f3153092e06152836"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "57db2101d8363e38906726cac0d14fdaebd392bf5d6207a4a718bbc40b701baf"
 metafile = true
@@ -795,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "645b7f787ddcde08094e315c356f9e5e102ca0b365d614d9068fd897229ea47f"
 metafile = true
 
 [[files]]
