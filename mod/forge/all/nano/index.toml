@@ -7,7 +7,7 @@ file = "config/alexscaves-client.toml"
 file = "config/create-client.toml"
 
 [[files]]
-file = "config/embeddium++.toml"
+file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
@@ -34,6 +34,9 @@ file = "config/iceandfire-client.toml"
 file = "config/openloader/advanced_options.json"
 
 [[files]]
+file = "config/openloader/resources/MPM_Long_Tails_Pack.zip"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/en_us.json"
 
 [[files]]
@@ -43,7 +46,17 @@ file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/ru
 file = "config/openloader/resources/ModPack Resources/assets/simplelogin/lang/uk_ua.json"
 
 [[files]]
+file = "config/openloader/resources/Ruvys MPM Master Pack 1.1.zip"
+
+[[files]]
+file = "config/openloader/resources/corvus_addon_1.zip"
+
+[[files]]
 file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/mpm_addon.pw.toml"
 metafile = true
 
 [[files]]
@@ -66,3 +79,6 @@ metafile = true
 [[files]]
 file = "mods/tconjei.pw.toml"
 metafile = true
+
+[[files]]
+file = "moreplayermodels/config/MorePlayerModels.cfg"

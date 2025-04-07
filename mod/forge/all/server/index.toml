@@ -470,7 +470,3 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 metafile = true
-
-[[files]]
-file = "resourcepacks/mpm_addon.pw.toml"
-metafile = true
