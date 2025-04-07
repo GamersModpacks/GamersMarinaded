@@ -28,6 +28,9 @@ file = "config/fancymenu/customization/main_menu.txt"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/forge-client.toml"
+
+[[files]]
 file = "config/iceandfire-client.toml"
 
 [[files]]

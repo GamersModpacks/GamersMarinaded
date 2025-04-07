@@ -1,14 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-
-[[files]]
 file = "filesToRemove.txt"
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"

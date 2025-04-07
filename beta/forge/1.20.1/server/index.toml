@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f67c2ae123ebfbceba05933dbf2da7ff6e0608900636d913a8d2a67a47fd5661"
+hash = "ed4e035e5e258ce3d8e33da2b6df34b564dc2197132bd497f8e8eabc3ab26734"
 
 [[files]]
 file = "config/does_it_tick-common.toml"

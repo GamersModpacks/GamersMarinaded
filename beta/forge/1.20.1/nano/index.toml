@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f67c2ae123ebfbceba05933dbf2da7ff6e0608900636d913a8d2a67a47fd5661"
+hash = "ed4e035e5e258ce3d8e33da2b6df34b564dc2197132bd497f8e8eabc3ab26734"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -82,7 +82,7 @@ hash = "5d22484f8e4c2c55feb8c5df67014e78eca62282df3160aa1fa038324fa3d8e9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "25e49f4318814147e1cbb2927b713f620a6ed443988e5e52aa4efc6624bf4a12"
+hash = "22caf1b95d90841ec0c685c41f04d6cb67e8ae5383213ca7611a039c4e440fd3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -110,7 +110,7 @@ hash = "9353db8eaad92a027462ade7ae4769f1f379a4fb5cd67e2ee1135a1b276a87a0"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
