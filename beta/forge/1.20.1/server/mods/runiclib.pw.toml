@@ -1,0 +1,13 @@
+name = "RunicLib"
+filename = "TipsyLib-forge-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a25f272dbcffc73773a7218bfa8f90f4a5f7aa84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289559
+project-id = 880879

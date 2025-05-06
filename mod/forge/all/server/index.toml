@@ -20,6 +20,10 @@ file = "config/quark-common.toml"
 file = "config/vampirism-common.toml"
 
 [[files]]
+file = "mods/additional-attributes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 metafile = true
 
@@ -33,6 +37,18 @@ metafile = true
 
 [[files]]
 file = "mods/ancient-golems.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-ascended.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
 metafile = true
 
 [[files]]
@@ -93,6 +109,10 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
 metafile = true
 
 [[files]]
@@ -189,6 +209,10 @@ metafile = true
 
 [[files]]
 file = "mods/guide-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
 metafile = true
 
 [[files]]
@@ -352,6 +376,10 @@ file = "mods/philips-ruins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 metafile = true
 
@@ -381,6 +409,10 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
 metafile = true
 
 [[files]]
@@ -461,6 +493,10 @@ metafile = true
 
 [[files]]
 file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
 metafile = true
 
 [[files]]
