@@ -18,7 +18,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f341f0455e2ae1ead7812ae9ed0b978cc9e7e817315450ceb4afa205c7b39c9d"
+hash = "df7c6b3aa08f3ca17a6d0a228960f9e0d8f3880b717dc39aefb097900372235e"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -86,7 +86,7 @@ hash = "aa27cf6046d0f99643fab427fcea3c16cc4090ef3f68d8bbc50f18b8a7b77db9"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "43b523b578280662bb586c70fae6108d7d7e793da81352da88f3162d0d3499e6"
+hash = "c406860b57df3306c91692ca88f6b9e11ebcd37e9b06624d65d99fc13ccb86bb"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
