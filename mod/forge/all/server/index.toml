@@ -36,10 +36,6 @@ file = "mods/amendments.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ancient-golems.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/apotheosis-ascended.pw.toml"
 metafile = true
 
@@ -193,10 +189,6 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
